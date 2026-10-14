@@ -24,7 +24,7 @@
  This dashboard helps identify patient attendance patterns,waiting time performance,Patient satisfaction, and the distribution of       referrals across hospital departments.
 
  ## Dashboard screen shot
- The dashboard screen shot will be added here.
+ ![Hospital Emergency Room Dashboard](final%20hospital%20emergency%20room%20dashboard.PNG)
  
  
 
